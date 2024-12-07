@@ -1,0 +1,14 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "aceinetx.song_stopped_at",
+	"name": "Song Stopped At",
+	"version": "v1.0.0",
+	"developer": "aceinetx",
+	"description": "Brings back the fully functional \"Song stopped at\" label"
+}
